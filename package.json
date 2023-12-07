@@ -1,0 +1,19 @@
+{
+  "name": "greenmail-register-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.5",
+    "nodemailer": "^6.9.7",
+    "unirest": "^0.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
